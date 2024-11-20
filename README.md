@@ -34,8 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alenthalachira1998&show_icons=true&theme=dracula)](https://github.com/alenthalachira1998)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alenthalachira1998&layout=compact&theme=dracula)](https://github.com/alenthalachira1998)
 
