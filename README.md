@@ -28,8 +28,8 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=alenthalachira1998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📌 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=alenthalachira1998&repo=repo-name&theme=dracula)](https://github.com/alenthalachira1998/repo-name)
+## 📌 Featured Project
+[![Greenest Final](https://github-readme-stats.vercel.app/api/pin/?username=alenthalachira1998&repo=greenestfinal&theme=dracula)](https://github.com/alenthalachira1998/greenestfinal)
 
 ## 📈 Contribution Graph
 ![Snake animation](https://github.com/alenthalachira1998/alenthalachira1998/blob/output/github-contribution-grid-snake.svg)
