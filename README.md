@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @alenthalachira1998
-- 👀 I’m interested in MERN app development  both mobile and web development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate 
+I am a passionate and skilled developer with expertise in TypeScript, Next.js, React.js, Node.js, Kotlin, React Native, and Expo. I enjoy building robust, scalable applications across web and mobile platforms, solving complex challenges with innovative solutions. My experience spans front-end and back-end development, mobile application development, and seamless integration to ensure high performance and user satisfaction.
 
+Skills:
 
-<!---
-alenthalachira1998/alenthalachira1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend: React.js, Next.js, TypeScript, JavaScript, HTML, CSS.
+Mobile Development: React Native, Expo, Kotlin.
+Backend: Node.js, Express.js.
+Databases: MongoDB, PostgreSQL.
+Additional Tools: Prisma, GraphQL, Firebase.
+Soft Skills: Problem-solving, collaboration, adaptability.
+
